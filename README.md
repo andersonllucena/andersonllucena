@@ -14,6 +14,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/andersonllucena?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.canva.com/design/DAE-hLuHvUw/0rck3fito3QoYFMd7ExazQ/view?website#4)](https://www.canva.com/design/DAE-hLuHvUw/0rck3fito3QoYFMd7ExazQ/view?website#4)
 ![](https://visitor-badge.glitch.me/badge?page_id=andersonllucena.andersonllucena)
+![Waka Readme](https://github.com/andersonllucena/andersonllucena/workflows/Waka%20Readme/badge.svg)
 
 ### 📫 Like to meet me?
 
