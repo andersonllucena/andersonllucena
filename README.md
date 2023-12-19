@@ -34,7 +34,7 @@ npx andersonllucena
 const andersonllucena = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "SQL", "C#", "Kotlin", "Swift"],
-    askMeAbout: ["game dev", "tech", "app dev", "photography"],
+    askMeAbout: ["game dev", "tech", "app dev", "photography", "chemistry", "astronomy", "neuromorphic"],
     technologies: {
         backEnd: {
             js: ["React", "Node"],
@@ -46,6 +46,7 @@ const andersonllucena = {
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        payment: ["Stripe"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Game development and back-end applications",
